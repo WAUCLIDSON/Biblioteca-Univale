@@ -1,0 +1,14 @@
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\bin\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.exe
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\bin\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.deps.json
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\bin\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.runtimeconfig.json
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\bin\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.dll
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\bin\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.pdb
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.AssemblyInfoInputs.cache
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.AssemblyInfo.cs
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.csproj.CoreCompileInputs.cache
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.dll
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\refint\Biblioteca-Univale-GP3-Wauclidson.dll
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.pdb
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\Biblioteca-Univale-GP3-Wauclidson.genruntimeconfig.cache
+C:\Users\Waudias\source\repos\Biblioteca-Univale\Biblioteca-Univale-GP3-Wauclidson\Biblioteca-Univale-GP3-Wauclidson\obj\Debug\net8.0\ref\Biblioteca-Univale-GP3-Wauclidson.dll

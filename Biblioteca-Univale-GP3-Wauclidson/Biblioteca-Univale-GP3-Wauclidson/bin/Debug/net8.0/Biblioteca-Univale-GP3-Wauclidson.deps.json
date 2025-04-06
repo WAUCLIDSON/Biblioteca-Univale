@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Biblioteca-Univale-GP3-Wauclidson/1.0.0": {
+        "runtime": {
+          "Biblioteca-Univale-GP3-Wauclidson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca-Univale-GP3-Wauclidson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
